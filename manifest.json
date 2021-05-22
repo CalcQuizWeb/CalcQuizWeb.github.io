@@ -1,0 +1,23 @@
+{
+    "name": "CalcQuiz Web",
+    "short_name": "CalcQuiz Web",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "CalcQuiz Web",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icon_app.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon_app.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
